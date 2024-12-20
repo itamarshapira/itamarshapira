@@ -48,13 +48,7 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 - 🔗 LinkedIn: [linkedin.com/in/itamarshapira](https://linkedin.com/in/itamarshapira)
 
 ---
-
 ⚡ **"Strong, quiet leadership combined with a passion for innovation drives me forward."**
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itamarshapira&theme=radical)
-
-
-
 <!--
 **itamarshapira/itamarshapira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
