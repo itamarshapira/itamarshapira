@@ -18,7 +18,7 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 - Features secure authentication and dynamic image recognition.
 - Deployed on [Render](https://smartbrain-backend-6y14.onrender.com).
 
-#### [Heart Disease Predictor]([https://heart-disease-book.netlify.app/intro.html](https://github.com/itamarshapira/heart-disease-book)
+#### [Heart Disease Predictor](https://github.com/itamarshapira/heart-disease-book)
 > **Predicting heart disease likelihood using Logistic Regression and visualizing insights.**
 - Extensive analysis and optimized accuracy using advanced visualization.
 - Includes a detailed Jupyter Notebook for developers and a polished Jupyter Book for presentations.
