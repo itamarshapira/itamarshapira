@@ -24,9 +24,8 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 - Includes a detailed Jupyter Notebook for developers and a polished Jupyter Book for presentations.
 
 ---
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-%E2%9C%94%EF%B8%8F-brightgreen)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-blue)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-yellowgreen)
+[![Smart Brain](https://img.shields.io/badge/Smart%20Brain-Face%20Detection-blue)](https://github.com/itamarshapira/smartBrain)
+[![Heart Disease Predictor](https://img.shields.io/badge/Heart%20Disease%20Predictor-ML-orange)](https://github.com/itamarshapira/heart-disease)
 
 
 ### 🛠️ Technologies & Tools
