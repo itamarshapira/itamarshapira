@@ -24,7 +24,10 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 - Includes a detailed Jupyter Notebook for developers and a polished Jupyter Book for presentations.
 
 ---
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itamarshapira&theme=radical)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-%E2%9C%94%EF%B8%8F-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-blue)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-yellowgreen)
+
 
 ### 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
