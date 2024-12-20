@@ -13,19 +13,19 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 
 ### 🌟 Highlighted Projects
 
-#### [Smart Brain](https://github.com/itamarshapira/smartBrain)
+#### [Smart Brain](https://github.com/itamarshapira/smartBrain) [![Smart Brain](https://img.shields.io/badge/Smart%20Brain-Face%20Detection-blue)](https://github.com/itamarshapira/smartBrain)
 > **A full-stack face detection app using React, Node.js, Express, and Clarifai API.**
 - Features secure authentication and dynamic image recognition.
 - Deployed on [Render](https://smartbrain-backend-6y14.onrender.com).
 
-#### [Heart Disease Predictor](https://github.com/itamarshapira/heart-disease-book)
+#### [Heart Disease Predictor](https://github.com/itamarshapira/heart-disease-book) [![Heart Disease Predictor](https://img.shields.io/badge/Heart%20Disease%20Predictor-ML-orange)](https://github.com/itamarshapira/heart-disease)
 > **Predicting heart disease likelihood using Logistic Regression and visualizing insights.**
 - Extensive analysis and optimized accuracy using advanced visualization.
 - Includes a detailed Jupyter Notebook for developers and a polished Jupyter Book for presentations.
 
 ---
-[![Smart Brain](https://img.shields.io/badge/Smart%20Brain-Face%20Detection-blue)](https://github.com/itamarshapira/smartBrain)
-[![Heart Disease Predictor](https://img.shields.io/badge/Heart%20Disease%20Predictor-ML-orange)](https://github.com/itamarshapira/heart-disease)
+
+
 
 
 ### 🛠️ Technologies & Tools
