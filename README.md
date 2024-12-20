@@ -27,10 +27,6 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 
 ---
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=itamarshapira&color=blue)
-
-
 ### 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +50,9 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 ---
 
 ⚡ **"Strong, quiet leadership combined with a passion for innovation drives me forward."**
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itamarshapira&theme=radical)
+
 
 
 <!--
