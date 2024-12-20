@@ -28,6 +28,7 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 ---
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=itamarshapira&color=blue)
 
 
 ### 🛠️ Technologies & Tools
