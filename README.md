@@ -44,7 +44,6 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 ### 💬 Connect with Me
 - 📧 Email: [itamarshapirait@gmail.com](mailto:itamarshapirait@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/itamarshapira](https://linkedin.com/in/itamarshapira)
-- 🌐 Portfolio: [Protfolio]([https://your-portfolio-link.com](https://my-profolio.netlify.app/))
 
 ---
 
