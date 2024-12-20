@@ -1,13 +1,13 @@
 # Hi, I'm Itamar Shapira! 👋
 
-I'm a **Computer Science student** at Sapir College and a **third-year developer** passionate about creating impactful solutions in **software development**, **machine learning**, and **web technologies**. With a strong foundation in **Java**, **Python**, **JavaScript**, and **SQL**, I specialize in building projects that merge creativity and functionality.
+I'm a **Computer Science student** at Sapir College and a **third-year developer** passionate about creating impactful solutions in **software development**, **machine learning**. 
 
 ## 🚀 About Me
 - 🎓 Studying for a BSc in Computer Science (2022–Present).
 - 💻 Skilled in **React**, **Node.js**, **PostgreSQL**, and **MongoDB**.
 - 🔬 Experienced in **data science** and **machine learning**, working on projects like **heart disease prediction** and **bulldozer price forecasting**.
 - 🌍 Open to collaborating on projects in **medicine**, **sports**, and **security domains**.
-- 🏋️ Certified **personal trainer** with extensive knowledge of **anatomy and kinesiology**.
+- 🏋️ Certified **Lecturer & personal trainer** with extensive knowledge of **anatomy and kinesiology**.
 
 ---
 
@@ -18,14 +18,10 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 - Features secure authentication and dynamic image recognition.
 - Deployed on [Render](https://smartbrain-backend-6y14.onrender.com).
 
-#### Heart Disease Predictor
+#### [Heart Disease Predictor]([https://heart-disease-book.netlify.app/intro.html](https://github.com/itamarshapira/heart-disease-book)
 > **Predicting heart disease likelihood using Logistic Regression and visualizing insights.**
 - Extensive analysis and optimized accuracy using advanced visualization.
 - Includes a detailed Jupyter Notebook for developers and a polished Jupyter Book for presentations.
-
-#### Bulldozer Price Prediction
-> **Machine learning regression project using Kaggle's Bluebook dataset.**
-- Predicted sale prices of bulldozers with RMSLE as the evaluation metric.
 
 ---
 
@@ -46,9 +42,9 @@ I'm a **Computer Science student** at Sapir College and a **third-year developer
 ---
 
 ### 💬 Connect with Me
-- 📧 Email: [itamarshapira@example.com](mailto:itamarshapira@example.com)
+- 📧 Email: [itamarshapirait@gmail.com](mailto:itamarshapirait@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/itamarshapira](https://linkedin.com/in/itamarshapira)
-- 🌐 Portfolio: [itamarshapira.dev](https://your-portfolio-link.com)
+- 🌐 Portfolio: [Protfolio]([https://your-portfolio-link.com](https://my-profolio.netlify.app/))
 
 ---
 
